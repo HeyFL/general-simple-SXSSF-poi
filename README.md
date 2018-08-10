@@ -1,6 +1,6 @@
 # general-simple-SXSSF-poi
 
-通用导出Excel服务
+通用导出Excel(其实就是个工具类)
 
 支持百万级别导出
 
